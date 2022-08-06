@@ -1,0 +1,7 @@
+The data collected had MRI images of several patients,
+Under each sub floder the following .nii images were being present
+1. Apparent Diffusion Coefficient (ADC)
+2. T2-Weighted (T2W) images
+3. Diffusion-Weighted Images (DWI)
+
+4. Also there is a NRRD file,under labels
