@@ -43,11 +43,18 @@ The MRI, once scanned are passed onto the ADC and DWI to check for diffusion, th
 
 ## Sample Output
 
-# The Actual Input Image
+#### The Actual Input Image
 ![ps5](https://user-images.githubusercontent.com/65388338/183256349-38be7768-4ca8-49e7-a7b9-a79df53b4312.png)
 
-# Trained
+#### Trained
 ![ps3](https://user-images.githubusercontent.com/65388338/183256365-c457f42c-134a-48be-8575-70ad2df63889.png)
 
-# Predicted
+#### Predicted
 ![ps4](https://user-images.githubusercontent.com/65388338/183256380-ff090d08-ff42-4e4b-a02c-c57ce52758aa.png)
+
+
+## Future Improvisations
+
+1.  The accuracy of the predicted images could be improved
+2.  Training the images with more data could be the next ideal move
+3.  Increasing the Epochs while training will definetly deliver much accurate results.
