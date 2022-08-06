@@ -39,3 +39,15 @@ The MRI, once scanned are passed onto the ADC and DWI to check for diffusion, th
     * Optimizer - Adam
     * Epochs    - 100 (could be increased for better learning)
     * Batch size - 1
+
+
+## Sample Output
+
+The Actual Input Image
+![ps5](https://user-images.githubusercontent.com/65388338/183256349-38be7768-4ca8-49e7-a7b9-a79df53b4312.png)
+
+Trained
+![ps3](https://user-images.githubusercontent.com/65388338/183256365-c457f42c-134a-48be-8575-70ad2df63889.png)
+
+Predicted
+![ps4](https://user-images.githubusercontent.com/65388338/183256380-ff090d08-ff42-4e4b-a02c-c57ce52758aa.png)
