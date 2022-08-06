@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1ow7Ikh7LRSo5C0VEF6qyhRSvZECN6j_1/view
 
 The MRI, once scanned are passed onto the ADC and DWI to check for diffusion, the higher the diffusion more probability that its a prostate region suitable to detect the cancer
 
-![App Screenshot](https://www.researchgate.net/profile/Azam-Hamidinekoo/publication/343839103/figure/fig4/AS:934374526685186@1599783655783/Some-examples-of-T2W-ADC-and-DWI-MR-images-from-our-dataset-which-demonstrates-that-DWI.ppm)
+![PS2](https://user-images.githubusercontent.com/65388338/183240248-ef016054-1363-4db7-a6f4-5d491cc77009.png)
 
 
 ## Methods
